@@ -1,0 +1,15 @@
+D:\projets_c#\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\projets_c#\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\projets_c#\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\App.g.cs
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\projets_c#\Snake\Snake\Snake\obj\Debug\Snake.pdb

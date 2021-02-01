@@ -1,0 +1,14 @@
+D:\projets_c#\Snake\Snake\Snake\bin\Release\Snake.exe.config
+D:\projets_c#\Snake\Snake\Snake\bin\Release\Snake.exe
+D:\projets_c#\Snake\Snake\Snake\bin\Release\Snake.pdb
+D:\projets_c#\Snake\Snake\Snake\obj\Release\MainWindow.g.cs
+D:\projets_c#\Snake\Snake\Snake\obj\Release\App.g.cs
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake_MarkupCompile.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake_MarkupCompile.lref
+D:\projets_c#\Snake\Snake\Snake\obj\Release\MainWindow.baml
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.g.resources
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.exe
+D:\projets_c#\Snake\Snake\Snake\obj\Release\Snake.pdb
